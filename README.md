@@ -1,3 +1,3 @@
 ## Mulesoft Task
 # Movies Database Schema
-![Screenshot](E:\MuleSoft Task\dbSchema.png)
+# ![Screenshot](https://github.com/Janvi498/ImageDB/blob/main/dbSchema.png)
